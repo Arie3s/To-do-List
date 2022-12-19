@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/12/16 11:19:03.912,=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/16 11:19:05.644,=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/16 11:28:06.055,C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Task List\Unit1.cpp=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/16 11:28:06.055,C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Task List\Unit1.fmx=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/12/16 11:28:06.055,C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Task List\Unit1.h=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/12/16 11:28:07.384,C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Task List\Project1PCH1.h=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/16 11:28:08.745,C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Task List\Project1.cbproj=C:\Users\walit\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile Android="213a5b6928017ece"/>
+  </ActiveMobileDevice>
+</BorlandProject>

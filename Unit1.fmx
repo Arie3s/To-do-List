@@ -1,0 +1,55 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 521
+  ClientWidth = 528
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object task: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 56.000000000000000000
+    Position.Y = 80.000000000000000000
+  end
+  object Label: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 40.000000000000000000
+    Text = 'Label'
+    TabOrder = 1
+  end
+  object addButton: TButton
+    Position.X = 304.000000000000000000
+    Position.Y = 72.000000000000000000
+    TabOrder = 2
+    Text = 'addButton'
+  end
+  object taskBox: TListBox
+    Position.X = 56.000000000000000000
+    Position.Y = 168.000000000000000000
+    TabOrder = 3
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    Viewport.Width = 200.000000000000000000
+    Viewport.Height = 200.000000000000000000
+  end
+  object Error: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 136.000000000000000000
+    Text = 'Error'
+    TabOrder = 4
+  end
+  object totalItems: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 376.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 23.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'totalItems'
+    TabOrder = 5
+  end
+end

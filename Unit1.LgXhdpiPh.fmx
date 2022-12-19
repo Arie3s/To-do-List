@@ -1,0 +1,9 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited taskBox: TListBox
+    Viewport.Width = 200.000000000000000000
+    Viewport.Height = 200.000000000000000000
+  end
+end
